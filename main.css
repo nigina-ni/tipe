@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+.box{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
